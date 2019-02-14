@@ -29,7 +29,7 @@
 * Update cloud master repo `git push origin master`
 * Now you can delete your folder or file from your device by press delete button
 
-##
+## Some tips
 * You can know name children your direction by `ls`
 * You can know your git status by `git status`
 * You can add documentation by github site Wiki button or by README.md file **we recommend README** because github display that in first page **NOW YOU  READING THIS ARTICLE FROM README.MD** [Basic writing .md](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji) :+1:
