@@ -54,5 +54,7 @@
 * If you need to pull any branch from github use this command`git branch -b 'request' 'origin/request'`
 * To upload your local branch repo to your cloud branch use this command `git push origin `+`branch name`
 
+## Clone a specific branch
+* If you want to clone a specific branch write this command line `git clone -b <branch> <remote_repo>`
 
 
